@@ -10,7 +10,7 @@ This demo showcases the integration of NGINX and Fluentd using Docker Compose. T
 
 1. Clone this repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Aadik1ng/NGINX-with-Logging.git
     cd nginx-fluentd-demo
     ```
 
